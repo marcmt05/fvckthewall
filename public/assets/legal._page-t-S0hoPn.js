@@ -1,0 +1,1 @@
+import{l as e,r as t}from"./dist-wKgQWdyj.js";import{t as n}from"./arrow-left-DH5zkVMH.js";import{t as r}from"./PageShell-BdH2N7Bs.js";var i=e(),a=()=>(0,i.jsx)(r,{title:`Página no encontrada`,children:(0,i.jsxs)(t,{to:`/`,className:`btn-primary`,children:[(0,i.jsx)(n,{className:`h-4 w-4`}),` Volver al inicio`]})});export{a as notFoundComponent};
